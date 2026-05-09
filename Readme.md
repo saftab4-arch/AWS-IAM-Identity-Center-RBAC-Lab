@@ -17,6 +17,9 @@ This project focused on:
 * Least privilege access strategy
 
 ---
+# Architecture Diagram
+
+![Architecture Diagram](architecture/aws-iam-identity-center-rbac-architecture.png) 
 
 # Main Goal of the Project
 
